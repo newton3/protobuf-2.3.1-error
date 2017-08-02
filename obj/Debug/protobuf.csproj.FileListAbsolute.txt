@@ -1,0 +1,10 @@
+C:\code\sprint9\console\protobuf\bin\Debug\protobuf.exe.config
+C:\code\sprint9\console\protobuf\bin\Debug\protobuf.exe
+C:\code\sprint9\console\protobuf\bin\Debug\protobuf.pdb
+C:\code\sprint9\console\protobuf\bin\Debug\Newtonsoft.Json.dll
+C:\code\sprint9\console\protobuf\bin\Debug\protobuf-net.dll
+C:\code\sprint9\console\protobuf\bin\Debug\Newtonsoft.Json.xml
+C:\code\sprint9\console\protobuf\obj\Debug\protobuf.csprojResolveAssemblyReference.cache
+C:\code\sprint9\console\protobuf\obj\Debug\protobuf.exe
+C:\code\sprint9\console\protobuf\obj\Debug\protobuf.pdb
+C:\code\sprint9\console\protobuf\bin\Debug\protobuf-net.xml
